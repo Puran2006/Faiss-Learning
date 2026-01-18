@@ -1,3 +1,10 @@
 sift/
 sift/*
 sift*
+__pycache__/
+__pycache__/*
+*.pyc
+.env
+squad_embedded_data.pkl
+data/
+data/*
