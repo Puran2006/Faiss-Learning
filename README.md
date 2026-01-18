@@ -26,6 +26,25 @@ https://www.pinecone.io/learn/series/faiss/faiss-tutorial/
 ### FAISS Introduction
 ### Product Quantization( PQ ) Understanding
 ### Inverted File PQ
+### HNSW
+### Metrics(Recall, MAP, NDCG)
 
+### Filtering
 
+To work with Filtering, you have to download datasets, easiest way is to pip install datasets
+
+```
+pip install datasets
+```
+```
+https://www.pinecone.io/learn/vector-search-filtering/
+```
+```
+pip install pinecone
+```
+
+Next create a .env file in the folder and add your pinecone there
+```
+PINECONE_API_KEY="yourPineConeKeyHere"
+```
 

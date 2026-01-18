@@ -1,1 +1,2 @@
 https://www.pinecone.io/learn/series/faiss/faiss-tutorial/
+https://www.pinecone.io/learn/vector-search-filtering/
